@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, Python, SQL, GIT, CRO**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aryan-verma-0a2005169/**
+- 📫 How to reach me **www.linkedin.com/in/aryan-verma-0a2005169**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
