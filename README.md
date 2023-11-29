@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanverma333&label=Profile%20views&color=0e75b6&style=flat" alt="aryanverma333" /> </p>
 
-- 🔭 I’m currently working on **React, Data Analysis**
+- 🔭 I’m currently working on **PHP, Laravel**
 
-- 🌱 I’m currently learning **React(NextJS)**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Python, SQL, GIT, CRO, PHP**
+- 💬 Ask me about **PHP, Python, SQL, GIT, CRO**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aryan-verma-0a2005169/**
 
